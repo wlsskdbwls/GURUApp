@@ -68,7 +68,7 @@
         <TextView
             android:layout_width="120sp"
             android:layout_height="wrap_content"
-            android:text="음료량(ml)"
+            android:text="음료량 (ml)"
             android:textSize="16sp" />
 
         <EditText
@@ -88,7 +88,7 @@
         <TextView
             android:layout_width="120sp"
             android:layout_height="wrap_content"
-            android:text="카페인 함량(mg)"
+            android:text="카페인 함량 (mg)"
             android:textSize="16sp" />
 
         <EditText
